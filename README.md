@@ -115,6 +115,6 @@ db.delete("key1");
 db.clear();
 ```
 ## License
-This code is open-source and available under the MIT License.
+This code is open-source and available under the Apache-2.0 license.
 
 Feel free to use and modify it according to your needs. If you have any questions or encounter issues, please create an issue on the GitHub repository or contact the author for support.
